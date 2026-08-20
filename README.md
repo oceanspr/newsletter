@@ -1,2 +1,2 @@
-# newsletter
-Community Newsletter CMS is a lightweight, backend‑free content management system designed for community teams to create, edit, and publish posts seamlessly. Built on Netlify for deployment and GitHub Actions for automation, it integrates secure credential rotation, GPG key management, and compliance logging into the publishing workflow.
+# Community Newsletter
+Community Newsletter CMS — a lightweight, backend‑free blog platform for creating, editing, publishing, and deploying posts with secure automation, credential rotation, and compliance logging.
